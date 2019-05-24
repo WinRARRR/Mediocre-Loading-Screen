@@ -1,4 +1,4 @@
-﻿/*    _           _    _                     _ 
+/*    _           _    _                     _ 
      | |         | |  | |                   | |
   ___| | ___  ___| | _| |     ___   __ _  __| |
  / __| |/ _ \/ _ \ |/ / |    / _ \ / _` |/ _` |
@@ -17,7 +17,7 @@ var l_serverName = "Mediocre RP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
-var l_bgVideo = True;
+var l_bgVideo = true;
 
 /*Video background
 Avaiable options:
