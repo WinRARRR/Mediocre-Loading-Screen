@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Welcome to Mediocre DarkRP";
+var l_serverName = "Welcome to Mediocre DakRP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
