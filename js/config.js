@@ -13,11 +13,11 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Welcome to Mediocre DarkRP";
+var l_serverName = "Welcome to Mediocre DarkRP!";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
-var l_bgVideo = true;
+var l_bgVideo = false;
 
 /*Video background
 Avaiable options:
@@ -50,13 +50,16 @@ var l_background = "backgrounds/videos/dropsflares.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/touhou01.jpg",
-	"backgrounds/images/touhou02.jpg",
-	"backgrounds/images/touhou03.jpg"
+	"backgrounds/images/299165.jpg",
+	"backgrounds/images/299176.jpg",
+	"backgrounds/images/299180.jpg",
+	"backgrounds/images/299200.jpg",
+	"backgrounds/images/299223.jpg",
+	"backgrounds/images/299177.jpg"
 ];
 
 /*Random background images order?*/
-var l_bgImagesRandom = false;
+var l_bgImagesRandom = true;
 
 /*(Image-background only)
 Delay between background images changes
