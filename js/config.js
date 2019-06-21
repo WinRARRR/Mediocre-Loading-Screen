@@ -50,16 +50,11 @@ var l_background = "backgrounds/videos/dropsflares.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/299165.jpg",
-	"backgrounds/images/299176.jpg",
-	"backgrounds/images/299180.jpg",
-	"backgrounds/images/299200.jpg",
-	"backgrounds/images/299223.jpg",
-	"backgrounds/images/299177.jpg"
+	"backgrounds/images/299180.jpg"
 ];
 
 /*Random background images order?*/
-var l_bgImagesRandom = true;
+var l_bgImagesRandom = false;
 
 /*(Image-background only)
 Delay between background images changes
